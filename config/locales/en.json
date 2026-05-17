@@ -1,0 +1,21 @@
+{
+  "en": {
+    "general": {
+      "404": {
+        "title": "Page not found",
+        "subtext": "The page you requested does not exist"
+      }
+    },
+    "products": {
+      "product": "Product",
+      "price": "Price",
+      "add_to_cart": "Add to cart",
+      "quantity": "Quantity"
+    },
+    "wholesale": {
+      "inquiry": "Wholesale Inquiry",
+      "contact_sales": "Contact our sales team",
+      "minimum_order": "Minimum order: {{ min_order }}"
+    }
+  }
+}
